@@ -4,7 +4,7 @@
 ###### Skrevet av Kristian Stang
 
 ### Demo
- - Applikasjonen kan testes her: (http://chess.cojiro.no)
+ - Applikasjonen kan testes her: http://chess.cojiro.no
 
 ### Kildekode
  - Sjakkmotor: https://github.com/svgnAyure/chess-engine
