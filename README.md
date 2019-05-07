@@ -13,4 +13,9 @@
 ### Dokumenter
  - Prosjektskisse: https://github.com/svgnAyure/Prosjektweb/blob/master/Prosjektskisse.pdf
  - Prosjektbeskrivelse: https://github.com/svgnAyure/Prosjektweb/blob/master/Prosjektbeskrivelse.pdf
- - Prosjektrapport: ...
+ - Prosjektrapport: https://github.com/svgnAyure/Prosjektweb/blob/master/Prosjektrapport.pdf
+
+### Diagrammer
+ - Klassediagram: 
+ - Sekvensdiagram: 
+ - Utplasseringsdiagram: 
