@@ -16,6 +16,6 @@
  - Prosjektrapport: https://github.com/svgnAyure/Prosjektweb/blob/master/Prosjektrapport.pdf
 
 ### Diagrammer
- - Klassediagram: 
- - Sekvensdiagram: 
- - Utplasseringsdiagram: 
+ - Klassediagram: https://github.com/svgnAyure/Prosjektweb/blob/master/Klassediagram.png
+ - Sekvensdiagram: https://github.com/svgnAyure/Prosjektweb/blob/master/Sekvensdiagram.png
+ - Utplasseringsdiagram: https://github.com/svgnAyure/Prosjektweb/blob/master/Utplasseringsdiagram.png
